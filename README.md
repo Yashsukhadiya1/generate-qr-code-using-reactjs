@@ -7,7 +7,7 @@ A React.js app that generates custom QR codes from any text or URL — with down
 ## Screenshots
 
 ![App Preview](screenshot.png)
-![Sample QR Code](qrcode-sample.png)
+![Sample QR Code](public/QrCode.png)
 
 ## How to Run
 
